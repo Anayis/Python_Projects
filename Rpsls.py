@@ -1,6 +1,6 @@
 """ Execution: python Rpsls.py
 
- Written by Yuttanant Suwansiri 01/05/2013"""
+ Written by Yuttanant Suwansiri 24/04/2013"""
 
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
