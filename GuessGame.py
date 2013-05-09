@@ -1,6 +1,12 @@
-# template for "Guess the number" mini-project
-# input will come from buttons and an input field
-# all output for the game will be printed in the console
+""" Compilation: due to importing simplegui from 
+ codeskulptor.org, the code is needed to be executed 
+ in codeskulptor.org
+ 
+ input will come from buttons and an input field
+ all output for the game will be printed in the console
+
+ Written by Yuttanant Suwansiri 01/05/2013"""
+ 
 import simplegui
 import random
 import math
