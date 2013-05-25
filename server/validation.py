@@ -24,6 +24,10 @@ form = """
 </form>
 """
 
+        user_month = self.request.get('month')
+        user_day = self.request.get('day')
+        user_year = self.request.get('year')
+
 class MainPage(webapp2.RequestHandler):
 
     def get(self):
